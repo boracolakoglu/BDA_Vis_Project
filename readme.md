@@ -26,7 +26,7 @@ pip install streamlit pandas matplotlib seaborn
 Fire it up with:
 
 ```sh
-streamlit run app.py
+streamlit run energy_dashboard.py
 ```
 
 ## 📊 Data Insights
