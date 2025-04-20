@@ -1,4 +1,4 @@
-# ⚡ Energy Consumption Dashboard ⚡
+# Energy Consumption Dashboard ⚡
 
 🚀 **Project for Big Data and Analytics for Industry** 📌 *Warwick WMG 2024-2025 | Engineering Business Management*
 
@@ -32,10 +32,6 @@ streamlit run energy_dashboard.py
 ## 📊 Data Insights
 
 The dataset includes minute-level energy readings from various appliances and weather conditions. All data is cleaned and optimized for clear, impactful visualizations. ⚙️💡
-
-## 🤝 Contribute
-
-Got ideas? Found a bug? Open a pull request or create an issue to help improve this project! 🚀
 
 ## 📜 License
 
